@@ -1,0 +1,6 @@
+print("name - VIDHI SHARMA  roll no - 1900300100242")
+print("enter string : ")
+s=str(input())
+l=len(s)
+print("Length of the entered string : ")
+print(l)
